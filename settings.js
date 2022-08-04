@@ -41,27 +41,27 @@ global.APIKeys = {
 
 global.owner = ['Didula Rashmika']
 
-global.premium = ['💗Qeen Ashiya🧚']
+global.premium = ['💗Qeen Amell🧚']
 
-global.ownernomer = '94741671668'
+global.ownernomer = '15064043432'
 
-global.ownername = 'Didula Rashmika'
+global.ownername = 'Putrey Amelio'
 
-global.botname = '💗Qeen Ashiya🧚'
+global.botname = '💗Qeen Amell🧚'
 
-global.footer = '©💗Qeen Ashiya🧚.'
+global.footer = '©💗Qeen Amell🧚.'
 
-global.ig = 'https://github.com/BlackPant'
+global.ig = 'https://youtube.com/channel/UC_KcMlX5LI9EZIVOgLOx9TQ'
 
 global.region = '*╚═══❖•ೋ° 𝙱𝚕𝚊𝚌𝚔 𝙿𝚊𝚗𝚝𝚑𝚎𝚛 𝙼𝙳  °ೋ•❖═══╝*'
 
-global.sc = 'https://github.com/BlackPanther-svg/Queen-Ashiya'
+global.sc = 'https://youtube.com/channel/UC_KcMlX5LI9EZIVOgLOx9TQ'
 
-global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
+global.myweb = 'https://youtube.com/channel/UC_KcMlX5LI9EZIVOgLOx9TQ'
 
-global.packname = '💗Qeen Ashiya🧚'
+global.packname = '💗Qeen Amell🧚'
 
-global.author = '💗Qeen Ashiya🧚'
+global.author = '💗Qeen Amell🧚'
 
 global.sessionName = 'session'
 
