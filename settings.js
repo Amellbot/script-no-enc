@@ -39,7 +39,7 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['Didula Rashmika']
+global.owner = ['Putrey Amelia Cherly']
 
 global.premium = ['💗Qeen Amell🧚']
 
